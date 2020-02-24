@@ -1,5 +1,6 @@
 # South_African_ID
 
+An Android Application to extract the details in South African Id Number. It displays the date of birth, nationality, gender based on the id using the below mentioned format.
 South African ID number
 
 A South African ID number is a 13-digit number which is defined by the following format: YYMMDDSSSSCAZ.
